@@ -1,0 +1,15 @@
+s=set()#empty set
+print(type(s))
+s.add('a')
+s.add(2)
+s.add(3)
+s.add(4)
+print(s)
+s.remove(2)
+print(s)
+s.clear()
+print(s)
+s1={1,2,3,4,5}
+print(s1.pop())
+print(s1.pop())
+print(s1)

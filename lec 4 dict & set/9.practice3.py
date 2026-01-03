@@ -1,0 +1,11 @@
+students={}
+sub1=input("Enter a subject name: ")
+marks1=int(input("Enter marks1:"))
+students.update({sub1:marks1})
+sub2=input("Enter a subject name: ")
+marks2=int(input("Enter marks2:"))
+students.update({sub2:marks2})
+sub3=input("Enter a subject name: ")
+marks3=int(input("Enter marks3:"))
+students.update({sub3:marks3})
+print(students)

@@ -1,0 +1,9 @@
+marks=[80.5,88,90,95,85,86,89,95,96,97]
+print(marks)
+print(type(marks))
+print(marks[0])
+print(marks[0:])
+print(marks[:5])
+marks[1]=87
+print(marks)
+print(len(marks))

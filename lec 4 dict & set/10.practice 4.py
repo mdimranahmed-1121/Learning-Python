@@ -1,0 +1,5 @@
+same=set()
+tup=(9,9.0)
+same.add(tup)
+print(same)
+print(type(same))

@@ -1,0 +1,5 @@
+tup=(1,2,3,9,8,7,'Imran','Ahmed')
+print(tup)
+print(tup[2])
+print(len(tup))
+print(tup[0:8:3])

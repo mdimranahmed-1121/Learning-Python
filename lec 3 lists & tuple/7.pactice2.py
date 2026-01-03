@@ -1,0 +1,5 @@
+result=('A','B','C','D','A','A','D','A')
+print(result.count("A"))
+result=list(result)
+result.sort()
+print(result)
