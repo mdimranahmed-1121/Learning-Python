@@ -1,0 +1,6 @@
+f=open("new file.txt","a+")
+f.write("I want to earn money as soon as possible.")
+f.close()
+f1=open("new file.txt","r")
+print(f1.read())
+f1.close()
